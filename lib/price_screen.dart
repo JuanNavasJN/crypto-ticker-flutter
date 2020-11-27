@@ -96,7 +96,7 @@ class _PriceScreenState extends State<PriceScreen> {
     return Scaffold(
       backgroundColor: Colors.grey.shade400,
       appBar: AppBar(
-        title: Text('Coin Ticker'),
+        title: Text('Crypto Ticker'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
